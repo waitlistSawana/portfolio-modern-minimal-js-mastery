@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "技术栈",
+    description: "为了更快的建立网站，我将不断地丰富",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -70,21 +70,21 @@ export const gridItems = [
 ];
 
 export const projects = [
-  {
+  { 
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "AI段落生成器",
+    des: "一个LLM驱动的段落生成器，由一句主题，生成整个段落。自由设置语言、风格和应用场景。",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "/paragraph-generator.xyz",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Heics to Pdf 在线转换器",
+    des: "实现将Heic图片转换为Pdf的在线转换器。纯前端实现主体功能，无需担心隐私问题。",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "/heictopdf.xyz",
   },
   {
     id: 3,

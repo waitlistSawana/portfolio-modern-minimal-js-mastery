@@ -29,6 +29,13 @@
 6. 🔗 [Assets](#links)
 7. 🚀 [More](#more)
 
+## Sawana Comments
+
+待办清单 （除文字更改之外的调整）
+
+- [ ] 调整navbar，改为scrollto 指定id元素的top位置
+
+
 ## 🚨 Tutorial
 
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
